@@ -1,0 +1,4 @@
+
+Trame principale : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/Trame%20principale.txt
+Trame détaillée : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/livre%20entier.txt
+Chapitre 1 : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/chapitres/Chapitre%201.txt
