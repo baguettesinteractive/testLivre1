@@ -1,4 +1,6 @@
-
 Trame principale : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/Trame%20principale.txt
 Trame détaillée : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/livre%20entier.txt
+synthèse des chapitres : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/synthese_chapitres.txt
+Concept, style et choix narratifs : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/concept_et_style.txt
 Chapitre 1 : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/chapitres/Chapitre%201.txt
+Chapitre 2 : https://raw.githubusercontent.com/baguettesinteractive/testLivre1/refs/heads/main/chapitres/Chapitre%202.txt
